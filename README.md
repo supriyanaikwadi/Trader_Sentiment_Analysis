@@ -7,7 +7,7 @@ This project explores the relationship between trader behavior (PnL, leverage, v
 ## Directory Structure
 
 ```
-ds_<your_name>/
+ds_<Treader_Sentiment_Analysis>/
 ├── notebook_1.ipynb
 ├── csv_files/
 │   └── sentiment_aggregated_stats.csv
